@@ -1,4 +1,0 @@
-config = {
-    'EMAIL': '20180208@yopmail.com',
-    'PASSWORD': 'accfortest0208'
-}
